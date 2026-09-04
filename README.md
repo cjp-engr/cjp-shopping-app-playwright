@@ -1,6 +1,10 @@
 <div align="center">
 
-[TokoMart E2E Testing (Playwright)]((https://github.com/cjp-engr/cjp-shopping-app/tree/main/e2e-testing))
+<h3 class="work-title">
+  <a href="https://github.com/cjp-engr/cjp-shopping-app/tree/main/e2e-testing" target="_blank" rel="noopener">
+    TokoMart E2E Testing (Playwright)
+  </a>
+</h3>
 
 Web UI and API tests for TokoMart in one Playwright project.
 
