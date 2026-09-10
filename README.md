@@ -8,7 +8,15 @@
 
 Web UI and API tests for TokoMart in one Playwright project.
 
-  <img src="tokomart_playwright_2.png" alt="TokoMart-Playwright" width="800" />
+  <div>
+    <img src="tokomart_playwright_2.png" alt="TokoMart-Playwright" width="1000" />
+  </div>
+  
+  <br />
+  
+  <div>
+    <img src="toko-mart-playwright-run-read-me-v1.gif" alt="TokoMart-Patrol" width="1000" />
+  </div>
 
 </div>
 
